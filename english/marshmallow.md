@@ -10,6 +10,14 @@ spend your time [wisely](http://www.pythonchallenge.com/)
 
 [Click here](http://www.dvloper.me) to visit my dvloper.me blog .
 
+Are you a:
+
+[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0) 
+
+or a 
+
+[dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
+
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
@@ -264,6 +272,8 @@ Something lightly brushes the back of your neck, sending a chill down your spine
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
 You hear a strange noise then turn and see a large, wooden door.
+Too large, in fact, and yet too small, for the frame it rests in.
+You [walk through the door](./unnatural_door/unnatural_door.md).
 
 You turn for a third time and see a small, metal door.
 
@@ -1082,6 +1092,8 @@ You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
 [So Will you?](philosophy/questions.md)
 
+You recited [cosmological argument](cosmological_argument/cosmological_argument.md) in the morning in hub. 
+
 You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
 
 Click [here](https://www.youtube.com/watch?v=aboZctrHfK8) to find out what the meaning of life is.
@@ -1091,3 +1103,5 @@ so lazy [here](lazy/lazy.md)
 [Update](android/marshmallow6.0.md) your Smartphone to the Marshmallow 6.0!
 
 Click [here](walrus/walrus.md)
+
+Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
